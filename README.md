@@ -6,6 +6,26 @@ RnD project done under Prof. Sachin Patkar as a part of RnD course project (EE 6
 
 Vivado WebPACK 2019.1 
 
+## Python codes 
+
+Can be found inside ```CarDetection_python_codes``` directory and it is originally taken from:
+[HOG-SVM-python](https://github.com/jianlong-yuan/HOG-SVM-python)
+
+### Important links to the dataset
+	- Information can be found [here](https://cogcomp.seas.upenn.edu/Data/Car/)
+	- Dataset can be downloaded from [here](https://github.com/Menuka5/Data-sets-for-opencv-classifier-training/tree/master/Other Image Datasets collected)
+
+### Training
+
+	- Uses train.py file
+	- If you have scikit learn version 0.22 and cv2 version as 4.1.2 then you can directly use the file svm.model otherwise, you need to re-train and create your own model file
+	
+### Testing
+	-Use test.py file
+	
+
+
+
 ## Create HOG-SVM accelerator IP form HLS
 
 Using the normal HLS synthesis flow create, synthesize and export the IP 
@@ -20,9 +40,9 @@ source <path-to-build.tcl>/build.tcl
 ```
 ### Running Behavioral Simulation using MicroBlaze
 
-I have made a draft of a post to be published on medium.com for how I ran Behavioral Simulation.
+I have published an article on medium.com for how I ran Behavioral Simulation.
 
-Link to the draft: [Behavioral RTL Simulation with MicroBlaze](https://medium.com/@sapphire.sharma1996/behavioral-rtl-simulation-with-microblaze-131671e86f04)
+Link to the post: [Behavioral RTL Simulation with MicroBlaze](https://medium.com/@sapphire.sharma1996/behavioral-rtl-simulation-with-microblaze-131671e86f04)
 
 
 ## Debugging any error encountered while sourcing build.tcl
