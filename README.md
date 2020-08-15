@@ -12,8 +12,8 @@ Can be found inside ```CarDetection_python_codes``` directory and it is original
 [HOG-SVM-python](https://github.com/jianlong-yuan/HOG-SVM-python)
 
 ### Important links to the dataset
-	Information can be found [here](https://cogcomp.seas.upenn.edu/Data/Car/)
-	Dataset can be downloaded from [here](https://github.com/Menuka5/Data-sets-for-opencv-classifier-training/tree/master/Other Image Datasets collected)
+Information can be found [here](https://cogcomp.seas.upenn.edu/Data/Car/)
+Dataset can be downloaded from [here](https://github.com/Menuka5/Data-sets-for-opencv-classifier-training/tree/master/Other Image Datasets collected)
 
 ### Training
 
