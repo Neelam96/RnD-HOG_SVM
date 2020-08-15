@@ -14,7 +14,7 @@ Can be found inside ```CarDetection_python_codes``` directory and it is original
 ### Important links to the dataset
 Information can be found [here](https://cogcomp.seas.upenn.edu/Data/Car/)
 
-Dataset can be downloaded from [here](https://github.com/Menuka5/Data-sets-for-opencv-classifier-training/tree/master/Other\ Image\ Datasets\ collected)
+Dataset can be downloaded from [here](https://github.com/Menuka5/Data-sets-for-opencv-classifier-training), go inside ```Other Image Datasets collected``` folder
 
 ### Training
 
